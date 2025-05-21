@@ -43,4 +43,4 @@ assembly-game/
 ## Acknowledgments
 
 - Inspired by classic hangman and word games
-- Thanks to [Scrimba](scrimba.com) through facilitator, Bob Ziroll
+- Thanks to [Scrimba](https://scrimba.com) through facilitator, Bob Ziroll
